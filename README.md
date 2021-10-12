@@ -1,8 +1,9 @@
 # Registration
-<!--
+
+## Reference
+
   https://www.bezkoder.com/angular-12-jwt-auth/ 
   https://github.com/bezkoder/angular-12-jwt-authentication 
--->
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.6.
 
